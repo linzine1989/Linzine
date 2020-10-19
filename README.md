@@ -1,0 +1,2 @@
+# Linzine
+Linzine.sh
